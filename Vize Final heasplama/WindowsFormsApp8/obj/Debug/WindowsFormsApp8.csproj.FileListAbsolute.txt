@@ -1,0 +1,76 @@
+C:\Users\local.egitmen\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\local.egitmen\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\local.egitmen\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\local.egitmen\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\local.egitmen\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Anasayfa.resources
+C:\Users\local.egitmen\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Detay.resources
+C:\Users\local.egitmen\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\local.egitmen\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.kayıtol.resources
+C:\Users\local.egitmen\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\local.egitmen\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\local.egitmen\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\local.egitmen\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\local.egitmen\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\SAMET ktürk\Desktop\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\SAMET ktürk\Desktop\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\SAMET ktürk\Desktop\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\SAMET ktürk\Desktop\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\SAMET ktürk\Desktop\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Anasayfa.resources
+C:\Users\SAMET ktürk\Desktop\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Detay.resources
+C:\Users\SAMET ktürk\Desktop\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\SAMET ktürk\Desktop\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.kayıtol.resources
+C:\Users\SAMET ktürk\Desktop\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\SAMET ktürk\Desktop\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\SAMET ktürk\Desktop\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\SAMET ktürk\Desktop\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\SAMET ktürk\Desktop\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\SAMET ktürk\Desktop\yedek\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\SAMET ktürk\Desktop\yedek\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\SAMET ktürk\Desktop\yedek\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\SAMET ktürk\Desktop\yedek\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\SAMET ktürk\Desktop\yedek\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Anasayfa.resources
+C:\Users\SAMET ktürk\Desktop\yedek\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Detay.resources
+C:\Users\SAMET ktürk\Desktop\yedek\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\SAMET ktürk\Desktop\yedek\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.kayıtol.resources
+C:\Users\SAMET ktürk\Desktop\yedek\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\SAMET ktürk\Desktop\yedek\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\SAMET ktürk\Desktop\yedek\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\SAMET ktürk\Desktop\yedek\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\SAMET ktürk\Desktop\yedek\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\SAMET ktürk\Desktop\sadasd\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\SAMET ktürk\Desktop\sadasd\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\SAMET ktürk\Desktop\sadasd\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\SAMET ktürk\Desktop\sadasd\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\SAMET ktürk\Desktop\sadasd\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Anasayfa.resources
+C:\Users\SAMET ktürk\Desktop\sadasd\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Detay.resources
+C:\Users\SAMET ktürk\Desktop\sadasd\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\SAMET ktürk\Desktop\sadasd\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.kayıtol.resources
+C:\Users\SAMET ktürk\Desktop\sadasd\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\SAMET ktürk\Desktop\sadasd\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\SAMET ktürk\Desktop\sadasd\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\SAMET ktürk\Desktop\sadasd\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\SAMET ktürk\Desktop\sadasd\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\SAMET ktürk\Desktop\uygulama\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\SAMET ktürk\Desktop\uygulama\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\SAMET ktürk\Desktop\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\SAMET ktürk\Desktop\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Anasayfa.resources
+C:\Users\SAMET ktürk\Desktop\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Detay.resources
+C:\Users\SAMET ktürk\Desktop\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.giriş.resources
+C:\Users\SAMET ktürk\Desktop\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.kayıtol.resources
+C:\Users\SAMET ktürk\Desktop\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\SAMET ktürk\Desktop\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\SAMET ktürk\Desktop\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\SAMET ktürk\Desktop\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\SAMET ktürk\Desktop\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Anasayfa.resources
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Detay.resources
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.giriş.resources
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.kayıtol.resources
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\uygulama\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\uygulama\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\SAMET ktürk\Desktop\masaüstü uygulamarı\uygulama\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
